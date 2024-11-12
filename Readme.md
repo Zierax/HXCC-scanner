@@ -1,6 +1,12 @@
 # HXCC - HTTP Multi-Vulnerability Scanner
 
+
+<p align="center">
+  <img src="assets/menu.png" alt="Menu Image" />
+</p>
+
 HXCC is a simple yet powerful tool designed to scan web applications for common HTTP vulnerabilities. It's written in Python and utilizes the `requests` and `socket` libraries for network communication.
+
 
 ## Features
 
