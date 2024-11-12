@@ -1,4 +1,4 @@
-# HXCC - HTTP Vulnerability Checker
+# HXCC - HTTP Multi-Vulnerability Scanner
 
 HXCC is a simple yet powerful tool designed to scan web applications for common HTTP vulnerabilities. It's written in Python and utilizes the `requests` and `socket` libraries for network communication.
 
@@ -13,12 +13,12 @@ HXCC is a simple yet powerful tool designed to scan web applications for common 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/HXCC.git
+   git clone https://github.com/Zierax/HXCC-scanner.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd HXCC
+   cd HXCC-scanner
    ```
 
 3. **Install dependencies:**
@@ -27,9 +27,7 @@ HXCC is a simple yet powerful tool designed to scan web applications for common 
    ```
 
 ## Usage
-```
-
-bash
+```bash
 python main.py <target_host> <target_port>
 
 ```
